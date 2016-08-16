@@ -6,19 +6,19 @@ import org.sbolstandard.core2.ModuleDefinition;
 public class Module {
 	
 	public Module(Pathway paxPathway) {
-		//Populate entity
+		//Populate module
 	}
 	
 	public Module(ModuleDefinition sbolMD) {
-		//Populate entity
+		//Populate module
 	}
 	
-	public Pathway convertToPathway() {
+	public Pathway convertToPAXPathway() {
 		//Populate and produce pathway
 		return null;
 	}
 	
-	public ModuleDefinition convertToModuleDefinition() {
+	public ModuleDefinition convertToSBOLModuleDefinition() {
 		//Populate and produce module definition
 		return null;
 	}

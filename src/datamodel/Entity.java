@@ -13,12 +13,12 @@ public class Entity {
 		//Populate entity
 	}
 	
-	public PhysicalEntity convertToPhysicalEntity() {
+	public PhysicalEntity convertToPAXPhysicalEntity() {
 		//Populate and produce physical entity
 		return null;
 	}
 	
-	public ComponentDefinition convertToComponentDefinition() {
+	public ComponentDefinition convertToSBOLComponentDefinition() {
 		//Populate and produce component definition
 		return null;
 	}
